@@ -1,0 +1,11 @@
+/* 슬라이드 효과 */
+
+#boss_thanks {
+    -webkit-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+}
+#boss_thanks:hover  {
+    margin-left: -20px;
+    -webkit-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+}
